@@ -1,0 +1,63 @@
+.header{
+    background-color:lightblue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+.header:hover
+{
+    background-color: orange;
+}
+.a1{
+    background-color: black;
+    text-align: center;
+    padding:10px;
+}
+.a1 a{
+    color:white;
+    padding: 10px;
+}
+.a1 a:hover{
+     background-color: orange;
+}
+.box{
+    width: 1460px;
+    height: 900px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.box2{
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 35%;
+    padding: 20px;
+    background-color:lightblue;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+.box2 h2{
+    text-align: center;
+    font-weight: bolder;
+}
+form{
+   margin-left: 8%;
+}
+button{
+    margin-left: 35%;
+    background-color:black;
+    padding: 3px;
+    color: white;
+}
+button:hover{
+     background-color: orange;
+}
+input{
+    padding: 6px;
+    width:300px;
+    margin-left: 10px;
+}
